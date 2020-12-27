@@ -31,9 +31,7 @@ int main()
 				swap(arr[m],arr[e]);
 				e--;
 			}
-		} 
-		cout<<arr[0];		  
+		} 		  
 	}
-	//cout<<"hello";
     return 0;
 }
