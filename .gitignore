@@ -36,3 +36,6 @@
 
 # DS_Algo
 DS_Algo/
+
+# input files
+*.in
